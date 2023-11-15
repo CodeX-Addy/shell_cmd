@@ -1,3 +1,3 @@
 cat poems.txt
 clear
-head -n5 poems.txt  #Prints first 5 lines
+head -n5 poems.txt  #Prints first 5 lines of text file
