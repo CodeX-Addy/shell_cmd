@@ -1,3 +1,5 @@
 1. #! is executed by the kernel system called execve()
 2. Shell scripting is interpreted 
 3. For bash scripts most common is #!/bin/bash
+4. .bash_profile is readed when bash is invoked as a login Shell
+5. .bashrc is executed when new shell is started
