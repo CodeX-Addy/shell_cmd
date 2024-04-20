@@ -1,0 +1,9 @@
+1. #! is executed by the kernel system called execve()
+2. Shell scripting is interpreted 
+3. For bash scripts most common is #!/bin/bash
+4. .bash_profile is readed when bash is invoked as a login Shell
+5. .bashrc is executed when new shell is started
+6. How the admin can make permission??
+For ex: Having a variable echo $a 
+Now making changes on vi ~/.bashrc file by adding export statement as export echo a=$a:example
+Then printing subsequently by changing shell using bash command
